@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hi 👋, I'm Santosh Shingare
 A JS enthusiast As a dedicated Research Assistant at IIT Bombay, my professional journey is characterized by a passion for technology and a commitment to open-source development. I actively contribute to the global knowledge-sharing community as a Wikipedian and am proud to be part of the Mozilla community, embodying the spirit of collaboration and innovation.
 
@@ -11,12 +9,6 @@ As an advocate for open-source principles, I am driven by the belief that collab
 
 In summary, my professional identity is shaped by the roles of a Research Assistant at IIT Bombay, a dedicated Wikipedian, and a passionate Mozillian and open-source developer. Through my work on cutting-edge technologies like WebRTC, RED5, Asterisk, VoIP, and Freeswitch, I strive to make meaningful contributions to the field of communication and technology, embodying the ethos of collaboration and knowledge-sharing.
 
-
-Languages and Tools:<br>
-<img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="50" />
-<br>
-<br>
-<br>
 Javascript :<br>
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
