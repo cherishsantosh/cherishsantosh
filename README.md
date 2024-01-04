@@ -6,4 +6,4 @@ Connect with me:
 
 Languages and Tools:
 Communication
-![test image size](https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="50" />
