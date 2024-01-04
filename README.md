@@ -1,7 +1,15 @@
 ### Hi there 👋
+
 Hi 👋, I'm Santosh Shingare
-A JS enthusiast specializing in WebRTC and real-time communication technologies.
-Connect with me:
+A JS enthusiast As a dedicated Research Assistant at IIT Bombay, my professional journey is characterized by a passion for technology and a commitment to open-source development. I actively contribute to the global knowledge-sharing community as a Wikipedian and am proud to be part of the Mozilla community, embodying the spirit of collaboration and innovation.
+
+My expertise extends into the realm of open-source development, where I am deeply involved in projects related to WebRTC, RED5, Asterisk, VoIP, and Freeswitch. These technologies represent the forefront of communication solutions, and my work involves exploring and enhancing their capabilities to contribute to the evolution of the digital landscape.
+
+Within the expansive world of technology, my focus lies on WebRTC, a transformative technology that empowers real-time communication on the web. Additionally, my engagement with RED5, Asterisk, VoIP, and Freeswitch reflects my commitment to advancing telecommunication solutions and ensuring seamless connectivity in the digital era.
+
+As an advocate for open-source principles, I am driven by the belief that collaborative development fosters innovation and progress. My contributions to various projects underscore my commitment to creating accessible and transparent solutions that benefit the global community.
+
+In summary, my professional identity is shaped by the roles of a Research Assistant at IIT Bombay, a dedicated Wikipedian, and a passionate Mozillian and open-source developer. Through my work on cutting-edge technologies like WebRTC, RED5, Asterisk, VoIP, and Freeswitch, I strive to make meaningful contributions to the field of communication and technology, embodying the ethos of collaboration and knowledge-sharing.
 
 
 Languages and Tools:<br>
